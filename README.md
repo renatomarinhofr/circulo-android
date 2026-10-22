@@ -41,7 +41,6 @@ Use outro telefone para testar:
 2. Ligue de um número fora da agenda: a chamada deve ser rejeitada e aparecer no histórico, se estiver ligado.
 3. Toque em **Pausar proteção**: o número fora da agenda deve conseguir tocar. Toque em **Retomar proteção** para voltar a bloquear.
 
-A versão 1.1.0 foi conferida em um emulador com Android 16 usando chamadas simuladas. Confira também no seu celular, pois a integração depende do fabricante e da operadora.
 
 ## Compilar
 
