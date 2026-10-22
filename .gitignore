@@ -1,0 +1,18 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+*.jks
+*.keystore
+*.apk
+*.aab
+.idea/
+.DS_Store
+.env
+.env.*
+
+# Local design notes and review evidence
+.impeccable/
+PRODUCT.md
+DESIGN.md
+docs/REVISAO-VISUAL.md
